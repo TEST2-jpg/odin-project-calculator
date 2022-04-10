@@ -1,2 +1,2 @@
-# odin-project-calculator
-odin project calculator
+# odin-project-rock-paper-scissors
+odin project rps
